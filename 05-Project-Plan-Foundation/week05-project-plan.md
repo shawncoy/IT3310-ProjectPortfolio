@@ -26,7 +26,7 @@ By 1 October 2027, medical assistants will reduce the average length of patient 
 **Connection to Product Vision:** This objective is informed by the product vision because it directly measures the efficiency gained from making patient records easier to navigate.
 
 ### Objective 2
-By 1 November, 2027, medical assistants will be able to access a patient's core medical history in 3 clicks or fewer, as verified by system usability testing.
+By 1 November 2027, medical assistants will be able to access a patient's core medical history in 3 clicks or fewer, as verified by system usability testing.
 **Connection to Product Vision:** This objective is informed by the product vision because reducing the physical steps required to find information directly solves the problem of navigating disorganized patient records.
 
 ---
